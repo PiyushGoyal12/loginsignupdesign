@@ -18,7 +18,7 @@ export default function RegisterPage() {
         <div className='absolute inset-0 flex items-center justify-center p-8'>
           <div className='max-w-2xl space-y-4 text-center text-black'>
             <h1 className='text-4xl font-bold md:text-5xl'>
-              Great! Let's start!
+              Great! Let&apos;s start!
             </h1>
             <p className='px-24 text-lg text-gray-800 md:text-xl'>
               We will ask you some basic questions to make your business amazing
